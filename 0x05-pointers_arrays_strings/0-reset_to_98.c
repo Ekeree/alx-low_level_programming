@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * rest_98 - changes the value of n to 98
+ * reset_to_98 - changes the value of n to 98
  * @n: is the value to replaced
  * Return: 0
  */
